@@ -716,3 +716,5 @@ The ingestion architecture intentionally prioritizes:
 * operational continuity
 
 over simplistic realtime ingestion optimization.
+
+s
